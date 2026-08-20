@@ -1,0 +1,5 @@
+﻿id_zona;zona;orden;prioridad;color;distancia_objetivo;tipo_almacenamiento
+1;A;1;Muy Alta;#16A34A;Muy corta;Alta rotación
+2;B;2;Alta;#3B82F6;Corta;Rotación media
+3;C;3;Media;#F59E0B;Media;Rotación baja
+4;D;4;Baja;#DC2626;Larga;Reserva

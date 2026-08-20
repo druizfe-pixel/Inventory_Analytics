@@ -1,0 +1,771 @@
+﻿codigo;ranking_producto;ranking_ubicacion;ranking_ubicacion_nueva;distancia_actual;distancia_nueva;mejora_ranking;ahorro_distancia;score_movimiento;estado_slotting;zona_recomendada;tipo_picking
+443652;1;282;1;15,76;9,79;180;5,97;50697458;Mover urgente;A;Picking dinámico
+443591;2;;2;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+419107;3;;3;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+443690;4;52;4;7,43;;0;0,0;4214304;Óptimo;A;Picking dinámico
+419114;5;301;5;16,23;9,8;198;6,43;25671784;Mover urgente;A;Picking dinámico
+419053;6;441;6;19,81;9,83;337;9,98;36275085;Mover urgente;A;Picking dinámico
+384108;7;720;7;26,36;11,16;585;15,2;58746922;Mover urgente;A;Picking dinámico
+384115;8;797;7;28,47;11,21;660;17,26;64197770;Mover urgente;A;Picking dinámico
+269085;9;;8;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+407548;10;;8;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+443669;11;644;9;24,34;11,98;490;12,36;43552110;Mover urgente;A;Picking dinámico
+408804;12;439;10;19,75;12,09;280;7,66;28571829;Mover urgente;A;Picking dinámico
+336909;13;284;11;15,81;12,82;100;2,99;17084613;Mover urgente;A;Picking dinámico
+281612;14;288;12;15,88;12,95;98;2,93;16897548;Mover urgente;A;Picking dinámico
+384092;15;204;12;13,47;;0;0,0;11692800;Aceptable;A;Picking dinámico
+443607;16;27;13;5,6;;0;0,0;837480;Óptimo;A;Picking dinámico
+443775;17;477;14;20,69;13,47;273;7,22;27283201;Mover urgente;A;Picking dinámico
+443621;18;104;15;9,83;;0;0,0;5018799;Aceptable;A;Picking dinámico
+376608;19;221;16;13,92;;0;0,0;11323380;Aceptable;A;Picking dinámico
+419060;20;403;17;18,89;13,78;188;5,11;20992996;Mover urgente;A;Picking dinámico
+465937;21;547;18;22,18;13,88;328;8,3;28393017;Mover urgente;A;Picking dinámico
+419091;22;;19;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+443676;23;;19;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+465951;24;219;20;13,88;;0;0,0;9798362;Aceptable;A;Picking dinámico
+465968;25;154;21;11,98;;0;0,0;6497316;Aceptable;A;Picking dinámico
+407555;26;596;22;23,18;13,92;375;9,26;26811540;Mover urgente;A;Picking dinámico
+465920;27;458;23;20,15;14,15;232;6,0;20097870;Mover urgente;A;Picking dinámico
+443614;28;459;24;20,17;14,57;223;5,6;19654170;Mover urgente;A;Picking dinámico
+465944;29;553;25;22,32;14,8;306;7,52;23398848;Mover urgente;A;Picking dinámico
+407593;30;;26;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+465913;31;184;27;12,82;;0;0,0;6153615;Aceptable;A;Picking dinámico
+408811;32;;28;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+234427;33;54;28;7,5;;0;0,0;960986;Óptimo;A;Picking dinámico
+422848;34;83;29;9,08;;0;0,0;1927962;Óptimo;A;Picking dinámico
+443799;35;328;30;17,02;14,86;80;2,16;10213652;Mover urgente;A;Picking dinámico
+443782;36;;31;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+407609;37;840;32;29,69;14,89;591;14,8;23109608;Mover urgente;A;Picking dinámico
+234465;38;620;32;23,73;14,97;369;8,76;16793868;Mover urgente;A;Picking dinámico
+407876;39;215;33;13,78;;0;0,0;4755296;Aceptable;A;Picking dinámico
+407579;40;;34;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+234502;41;368;34;18,1;15,44;97;2,66;7930162;Mover urgente;A;Picking dinámico
+407623;42;;35;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+443805;43;388;36;18,55;15,76;106;2,79;6985088;Mover urgente;A;Picking dinámico
+407906;44;720;37;26,36;15,81;436;10,55;12821959;Mover urgente;A;Picking dinámico
+404783;45;512;38;21,48;15,88;224;5,6;8814978;Mover urgente;A;Picking dinámico
+404790;46;651;39;24,48;15,9;361;8,58;10002528;Mover urgente;A;Picking dinámico
+465999;47;39;39;6,48;;0;0,0;0;Óptimo;A;Picking dinámico
+404752;48;45;40;6,82;;0;0,0;79245;Óptimo;A;Picking dinámico
+263441;49;14;41;4,15;;0;0,0;0;Óptimo;A;Picking dinámico
+427904;50;;42;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+443713;51;927;43;35,08;16,16;630;18,92;12864852;Mover urgente;A;Picking dinámico
+407883;52;249;43;14,89;;0;0,0;2641950;Aceptable;A;Picking dinámico
+455112;53;493;44;21,08;16,23;192;4,85;5693769;Mover urgente;A;Picking dinámico
+443829;54;367;44;18,07;16,45;57;1,62;4077552;Mover urgente;A;Picking dinámico
+446196;55;837;45;29,64;16,72;518;12,92;9738432;Mover urgente;A;Picking dinámico
+458236;56;486;45;20,91;17,02;158;3,89;5133681;Mover urgente;A;Picking dinámico
+458229;57;;46;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+275192;58;888;47;31,85;17,25;551;14,6;9351079;Mover urgente;A;Picking dinámico
+374192;59;236;47;14,57;;0;0,0;1994895;Aceptable;A;Picking dinámico
+429304;60;915;48;33,64;17,27;576;16,37;9081825;Mover urgente;A;Picking dinámico
+407913;61;414;48;19,17;17,34;72;1,83;3795786;Mover urgente;A;Picking dinámico
+404844;62;466;49;20,36;18,07;99;2,29;4267161;Mover urgente;A;Picking dinámico
+404851;63;103;50;9,8;;0;0,0;538215;Aceptable;A;Picking dinámico
+234472;64;637;51;24,12;18,1;269;6,02;5911568;Mover urgente;A;Picking dinámico
+407975;65;401;52;18,85;18,54;14;0,31;3489302;Mover urgente;A;Picking dinámico
+467252;66;;53;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+450209;67;;54;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+458243;68;135;54;11,16;;0;0,0;743499;Aceptable;A;Picking dinámico
+467276;69;393;55;18,65;18,55;5;0,1;2830412;Mover urgente;A;Picking dinámico
+450339;70;297;56;16,16;18,65;-96;-2,49;2007048;Mover urgente;A;Picking dinámico
+407647;71;;56;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+443874;72;387;57;18,54;18,85;-14;-0,31;2689500;Mover urgente;A;Picking dinámico
+465982;73;226;57;14,15;;0;0,0;1332227;Aceptable;A;Picking dinámico
+443744;74;159;58;12,09;;0;0,0;785881;Aceptable;A;Picking dinámico
+443768;75;;58;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+308814;76;393;59;18,65;18,89;-10;-0,24;2502328;Mover urgente;A;Picking dinámico
+407937;77;519;60;21,61;19,17;105;2,44;3304341;Mover urgente;A;Picking dinámico
+374147;78;849;60;30,07;19,59;415;10,48;5604267;Mover urgente;A;Picking dinámico
+443737;79;;61;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+374260;80;573;61;22,69;19,75;134;2,94;3309568;Mover urgente;A;Picking dinámico
+449869;81;;62;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+234519;82;574;63;22,72;19,81;133;2,91;3200904;Mover urgente;A;Picking dinámico
+442426;83;445;64;19,86;19,86;0;0,0;2165604;Mover urgente;A;Picking dinámico
+455075;84;513;65;21,49;20,15;55;1,34;2509696;Mover urgente;A;Picking dinámico
+450384;85;;66;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+407654;86;102;66;9,79;;0;0,0;196020;Aceptable;A;Picking dinámico
+450636;87;190;67;12,95;;0;0,0;574902;Aceptable;A;Picking dinámico
+429328;88;;67;;;0;0,0;0;Sin ubicación;A;Picking dinámico
+407678;89;247;68;14,8;;0;0,0;783841;Aceptable;A;Picking dinámico
+450346;90;137;69;11,21;;0;0,0;284920;Aceptable;A;Picking dinámico
+443836;91;91;70;9,46;;0;0,0;87087;Óptimo;A;Picking dinámico
+450605;92;573;71;22,69;20,17;114;2,52;1955290;Mover urgente;A;Picking dinámico
+449876;93;767;72;27,67;20,36;301;7,31;2595130;Mover urgente;A;Picking dinámico
+408774;94;248;72;14,86;;0;0,0;641168;Aceptable;A;Picking dinámico
+473895;95;680;73;25,17;20,69;203;4,48;2210694;Mover urgente;A;Picking dinámico
+455068;96;771;74;27,83;20,91;285;6,92;2533595;Mover urgente;A;Picking dinámico
+449883;97;548;75;22,21;21,08;55;1,13;1602051;Mover urgente;A;Picking dinámico
+461113;98;342;76;17,34;21,43;-168;-4,09;649572;Mover urgente;A;Picking dinámico
+232126;99;217;77;13,81;;0;0,0;151898740;Óptimo;B;Picking dinámico
+300986;100;;78;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+244600;101;;79;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+400402;102;;79;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+227061;103;568;80;22,64;21,48;56;1,16;27223568;Mover;B;Picking dinámico
+419145;104;85;81;9,12;;0;0,0;147464;Óptimo;B;Picking dinámico
+393292;105;95;81;9,58;;0;0,0;471898;Óptimo;B;Picking dinámico
+446189;106;8;82;3,24;;0;0,0;0;Óptimo;B;Picking dinámico
+408835;107;171;82;12,43;;0;0,0;1692424;Óptimo;B;Picking convencional
+468341;108;;83;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+443706;109;339;84;17,27;;0;0,0;3914505;Aceptable;B;Picking convencional
+468358;110;614;85;23,63;21,49;101;2,14;6922494;Mover;B;Picking dinámico
+234434;111;;86;;;0;0,0;0;Sin ubicación;B;Picking convencional
+379142;112;187;87;12,9;;0;0,0;1153000;Óptimo;B;Picking dinámico
+316260;113;898;88;32,35;21,61;379;10,74;9170010;Mover;B;Picking dinámico
+455129;114;;89;;;0;0,0;0;Sin ubicación;B;Picking convencional
+443645;115;148;90;11,76;;0;0,0;609522;Óptimo;B;Picking convencional
+455136;116;510;90;21,43;21,73;-13;-0,3;4184460;Mover;B;Picking convencional
+441238;117;;91;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+450360;118;691;91;25,6;21,87;159;3,73;4943400;Mover;B;Picking dinámico
+459370;119;22;92;4,96;;0;0,0;0;Óptimo;B;Picking dinámico
+441245;120;;93;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+449838;121;251;94;14,97;;0;0,0;1218948;Aceptable;B;Picking convencional
+486253;122;592;95;23,12;22,01;53;1,11;3681279;Mover;B;Picking dinámico
+410029;123;337;96;17,25;;0;0,0;1718571;Aceptable;B;Picking convencional
+415710;124;523;97;21,73;22,18;-24;-0,45;2809896;Mover;B;Picking dinámico
+486246;125;895;98;32,23;22,21;347;10,02;4884813;Mover;B;Picking dinámico
+486260;126;;98;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+470009;127;;99;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+450711;128;271;100;15,44;;0;0,0;805068;Aceptable;B;Picking dinámico
+488196;129;29;101;5,8;;0;0,0;0;Óptimo;B;Picking dinámico
+470580;130;319;102;16,72;;0;0,0;923552;Aceptable;B;Picking dinámico
+459998;131;310;103;16,45;;0;0,0;840420;Aceptable;B;Picking dinámico
+455051;132;;104;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+462103;133;434;105;19,59;;0;0,0;1225854;Aceptable;B;Picking dinámico
+522104;134;700;106;25,77;22,32;147;3,45;2208492;Mover;B;Picking dinámico
+456676;135;532;107;21,87;22,64;-36;-0,77;1531275;Mover;B;Picking convencional
+486420;136;754;107;27,32;22,69;181;4,63;2266441;Mover;B;Picking dinámico
+419046;137;34;108;6,12;;0;0,0;0;Óptimo;B;Picking convencional
+486437;138;;109;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+392257;139;902;110;32,63;22,72;328;9,91;2358576;Mover;B;Picking dinámico
+470603;140;290;111;15,9;;0;0,0;525544;Aceptable;B;Picking dinámico
+461045;141;44;112;6,8;;0;0,0;0;Óptimo;B;Picking dinámico
+456683;142;539;113;22,01;23,12;-53;-1,11;1214526;Mover;B;Picking convencional
+392240;143;757;113;27,44;23,18;161;4,26;1789032;Mover;B;Picking dinámico
+469485;144;;114;;;0;0,0;0;Sin ubicación;B;Picking dinámico
+456669;145;222;115;14,02;;0;0,0;264183;Óptimo;B;Picking convencional
+464107;146;214;116;13,75;;0;0,0;152488;Óptimo;B;Picking dinámico
+467283;147;45;117;6,82;;0;0,0;0;Óptimo;C;Picking convencional
+450216;148;11;117;3,66;;0;0,0;0;Óptimo;C;Picking convencional
+450278;149;143;118;11,48;;0;0,0;256325;Óptimo;C;Picking convencional
+486277;150;340;118;17,29;;0;0,0;2074146;Óptimo;C;Picking convencional
+378992;151;329;119;17,08;;0;0,0;1961820;Óptimo;C;Picking convencional
+486284;152;845;120;29,86;;0;0,0;6605475;Aceptable;C;Picking convencional
+437996;153;488;120;20,96;;0;0,0;3240608;Óptimo;C;Picking convencional
+467269;154;76;121;8,69;;0;0,0;0;Óptimo;C;Picking convencional
+379005;155;349;122;17,54;;0;0,0;1917923;Óptimo;C;Picking convencional
+468310;156;74;123;8,59;;0;0,0;0;Óptimo;C;Picking convencional
+486291;157;730;124;26,7;;0;0,0;4741950;Aceptable;C;Picking convencional
+437989;158;320;125;16,76;;0;0,0;1468350;Óptimo;C;Picking convencional
+450933;159;41;126;6,64;;0;0,0;0;Óptimo;C;Picking convencional
+486482;160;50;127;7,28;;0;0,0;0;Óptimo;C;Picking convencional
+449845;161;73;128;8,57;;0;0,0;0;Óptimo;C;Picking convencional
+450506;162;347;128;17,51;;0;0,0;1466862;Óptimo;C;Picking convencional
+450681;163;785;129;28,22;;0;0,0;4357152;Aceptable;C;Picking convencional
+486475;164;327;130;16,96;;0;0,0;1305125;Óptimo;C;Picking convencional
+450261;165;180;131;12,65;;0;0,0;323253;Óptimo;C;Picking convencional
+450650;166;609;132;23,51;;0;0,0;3128166;Aceptable;C;Picking convencional
+469263;167;203;132;13,46;;0;0,0;450495;Óptimo;C;Picking convencional
+450483;168;195;133;13,2;;0;0,0;389484;Óptimo;C;Picking convencional
+488226;169;64;134;8,15;;0;0,0;0;Óptimo;C;Picking convencional
+443720;170;;135;;;0;0,0;0;Sin ubicación;C;Picking convencional
+336916;171;;136;;;0;0,0;0;Sin ubicación;C;Picking convencional
+450308;172;121;137;10,54;;0;0,0;0;Óptimo;C;Picking convencional
+438009;173;90;138;9,44;;0;0,0;0;Óptimo;C;Picking convencional
+368863;174;783;139;28,17;;0;0,0;3487260;Aceptable;C;Picking convencional
+488233;175;257;139;15,12;;0;0,0;634014;Óptimo;C;Picking convencional
+379036;176;109;140;10,11;;0;0,0;0;Óptimo;C;Picking convencional
+455167;177;;140;;;0;0,0;0;Sin ubicación;C;Picking convencional
+449852;178;;140;;;0;0,0;0;Sin ubicación;C;Picking convencional
+450537;179;;141;;;0;0,0;0;Sin ubicación;C;Picking convencional
+488240;180;302;142;16,26;;0;0,0;800160;Óptimo;C;Picking convencional
+468365;181;177;142;12,6;;0;0,0;167055;Óptimo;C;Picking convencional
+379012;182;70;143;8,49;;0;0,0;0;Óptimo;C;Picking convencional
+423081;183;497;144;21,17;;0;0,0;1654158;Óptimo;C;Picking convencional
+488202;184;421;145;19,33;;0;0,0;1258008;Óptimo;C;Picking convencional
+469997;185;353;146;17,74;;0;0,0;942057;Óptimo;C;Picking convencional
+444079;186;368;147;18,1;;0;0,0;998478;Óptimo;C;Picking convencional
+488219;187;385;148;18,45;;0;0,0;1068159;Óptimo;C;Picking convencional
+450322;188;391;149;18,6;;0;0,0;1052458;Óptimo;C;Picking convencional
+379029;189;19;149;4,73;;0;0,0;0;Óptimo;C;Picking convencional
+450285;190;;150;;;0;0,0;0;Sin ubicación;C;Picking convencional
+466828;191;156;151;12,04;;0;0,0;19530;Óptimo;C;Picking convencional
+486499;192;118;151;10,44;;0;0,0;0;Óptimo;C;Picking convencional
+460987;193;163;152;12,25;;0;0,0;39754;Óptimo;C;Picking convencional
+374277;194;793;152;28,39;;0;0,0;2171708;Aceptable;C;Picking convencional
+468204;195;815;153;28,92;;0;0,0;2167388;Aceptable;C;Picking convencional
+468181;196;;154;;;0;0,0;0;Sin ubicación;C;Picking convencional
+486406;197;291;155;15,93;;0;0,0;420920;Óptimo;C;Picking convencional
+443881;198;448;156;19,93;;0;0,0;901404;Óptimo;C;Picking convencional
+493954;199;101;157;9,76;;0;0,0;0;Óptimo;C;Picking convencional
+468167;200;278;158;15,61;;0;0,0;366120;Óptimo;C;Picking convencional
+450964;201;543;159;22,07;;0;0,0;1146240;Óptimo;C;Picking convencional
+450391;202;786;160;28,25;;0;0,0;1765320;Aceptable;C;Picking convencional
+419039;203;595;161;23,17;;0;0,0;1213898;Óptimo;C;Picking convencional
+468198;204;;162;;;0;0,0;0;Sin ubicación;C;Picking convencional
+470627;205;;163;;;0;0,0;0;Sin ubicación;C;Picking convencional
+530208;206;18;164;4,66;;0;0,0;0;Óptimo;C;Picking convencional
+450421;207;99;165;9,68;;0;0,0;0;Óptimo;C;Picking convencional
+460994;208;;166;;;0;0,0;0;Sin ubicación;C;Picking convencional
+468174;209;;166;;;0;0,0;0;Sin ubicación;C;Picking convencional
+450742;210;;167;;;0;0,0;0;Sin ubicación;C;Picking convencional
+455105;211;71;168;8,54;;0;0,0;0;Óptimo;C;Picking convencional
+450445;212;808;169;28,69;;0;0,0;1345734;Aceptable;C;Picking convencional
+486444;213;379;170;18,3;;0;0,0;431376;Óptimo;C;Picking convencional
+459981;214;431;171;19,54;;0;0,0;535080;Óptimo;C;Picking convencional
+486390;215;;172;;;0;0,0;0;Sin ubicación;C;Picking convencional
+443850;216;;173;;;0;0,0;0;Sin ubicación;C;Picking convencional
+495408;217;81;174;9,05;;0;0,0;0;Óptimo;C;Picking convencional
+461052;218;;174;;;0;0,0;0;Sin ubicación;C;Picking convencional
+473888;219;344;175;17,41;;0;0,0;336817;Óptimo;C;Picking convencional
+450582;220;47;176;7,03;;0;0,0;0;Óptimo;C;Picking convencional
+495415;221;35;176;6,18;;0;0,0;0;Óptimo;C;Picking convencional
+450995;222;12;177;3,87;;0;0,0;0;Óptimo;C;Picking convencional
+466811;223;272;178;15,45;;0;0,0;175122;Óptimo;C;Picking convencional
+495422;224;358;179;17,85;;0;0,0;330434;Óptimo;C;Picking convencional
+419022;225;397;180;18,78;;0;0,0;397110;Óptimo;C;Picking convencional
+390529;226;56;181;7,6;;0;0,0;0;Óptimo;C;Picking convencional
+460963;227;598;182;23,21;;0;0,0;720928;Óptimo;C;Picking convencional
+460956;228;;183;;;0;0,0;0;Sin ubicación;C;Picking convencional
+450407;229;838;184;29,66;;0;0,0;1072560;Aceptable;C;Picking convencional
+461014;230;88;185;9,24;;0;0,0;0;Óptimo;C;Picking convencional
+450551;231;37;186;6,3;;0;0,0;0;Óptimo;C;Picking convencional
+461021;232;572;186;22,68;;0;0,0;591738;Óptimo;C;Picking convencional
+470610;233;16;186;4,41;;0;0,0;0;Óptimo;C;Picking convencional
+486222;234;;187;;;0;0,0;0;Sin ubicación;C;Picking convencional
+390604;235;259;188;15,2;;0;0,0;101246;Óptimo;C;Picking convencional
+469478;236;;189;;;0;0,0;0;Sin ubicación;C;Picking convencional
+478616;237;842;190;29,74;;0;0,0;896500;Aceptable;C;Picking convencional
+493947;238;31;191;5,93;;0;0,0;0;Óptimo;C;Picking convencional
+390598;239;296;192;16,14;;0;0,0;132600;Óptimo;C;Picking convencional
+445083;240;;193;;;0;0,0;0;Sin ubicación;C;Picking convencional
+390628;241;266;194;15,32;;0;0,0;90864;Óptimo;C;Picking convencional
+461120;242;;195;;;0;0,0;0;Sin ubicación;C;Picking convencional
+456546;243;56;196;7,6;;0;0,0;0;Óptimo;C;Picking convencional
+486529;244;591;197;23,11;;0;0,0;470436;Óptimo;C;Picking convencional
+486215;245;181;198;12,67;;0;0,0;0;Óptimo;C;Picking convencional
+486451;246;317;198;16,59;;0;0,0;140896;Óptimo;C;Picking convencional
+445052;247;43;198;6,71;;0;0,0;0;Óptimo;C;Picking convencional
+390543;248;918;199;33,97;23,39;314;10,58;832602;Mover;C;Picking convencional
+421148;249;10;200;3,57;;0;0,0;0;Óptimo;C;Picking convencional
+496085;250;546;201;22,16;;0;0,0;379500;Óptimo;C;Picking convencional
+486611;251;373;202;18,2;;0;0,0;185364;Óptimo;C;Picking convencional
+486574;252;84;202;9,1;;0;0,0;0;Óptimo;C;Picking convencional
+390666;253;166;203;12,31;;0;0,0;0;Óptimo;C;Picking convencional
+448367;254;263;204;15,27;;0;0,0;62245;Óptimo;C;Picking convencional
+443843;255;;205;;;0;0,0;0;Sin ubicación;C;Picking convencional
+486543;256;688;206;25,43;;0;0,0;491158;Aceptable;C;Picking convencional
+486468;257;307;207;16,4;;0;0,0;99300;Óptimo;C;Picking convencional
+486314;258;;207;;;0;0,0;0;Sin ubicación;C;Picking convencional
+478609;259;67;208;8,35;;0;0,0;0;Óptimo;C;Picking convencional
+390611;260;;209;;;0;0,0;0;Sin ubicación;C;Picking convencional
+486321;261;149;210;11,77;;0;0,0;0;Óptimo;C;Picking convencional
+456539;262;117;211;10,35;;0;0,0;0;Óptimo;C;Picking convencional
+390536;263;;212;;;0;0,0;0;Sin ubicación;C;Picking convencional
+486307;264;390;213;18,59;;0;0,0;155229;Óptimo;C;Picking convencional
+390680;265;;214;;;0;0,0;0;Sin ubicación;C;Picking convencional
+461076;266;361;214;17,92;;0;0,0;122745;Óptimo;C;Picking convencional
+460000;267;20;215;4,88;;0;0,0;0;Óptimo;C;Picking convencional
+303666-BEIGE;268;;216;;;0;0,0;0;Sin ubicación;C;Picking convencional
+486598;269;256;217;15,07;;0;0,0;31629;Óptimo;C;Picking convencional
+486604;270;646;218;24,38;;0;0,0;336836;Aceptable;C;Picking convencional
+461083;271;423;219;19,39;;0;0,0;155856;Óptimo;C;Picking convencional
+445267;272;470;220;20,45;;0;0,0;184750;Óptimo;C;Picking convencional
+478623;273;59;221;7,88;;0;0,0;0;Óptimo;C;Picking convencional
+459363;274;431;221;19,54;;0;0,0;137550;Óptimo;C;Picking convencional
+390673;275;17;222;4,5;;0;0,0;0;Óptimo;C;Picking convencional
+491431;276;4;223;1,93;;0;0,0;0;Óptimo;C;Picking convencional
+455594;277;360;224;17,91;;0;0,0;78064;Óptimo;C;Picking convencional
+408781;278;;225;;;0;0,0;0;Sin ubicación;C;Picking convencional
+385914;279;376;226;18,25;;0;0,0;83400;Óptimo;C;Picking convencional
+455587;280;193;226;13,05;;0;0,0;0;Óptimo;C;Picking convencional
+456553;281;123;227;10,67;;0;0,0;0;Óptimo;C;Picking convencional
+385938;282;;228;;;0;0,0;0;Sin ubicación;C;Picking convencional
+489940;283;619;228;23,71;;0;0,0;197455;Aceptable;C;Picking convencional
+489957;284;848;229;30,03;;0;0,0;298977;Aceptable;C;Picking convencional
+455600;285;141;229;11,42;;0;0,0;0;Óptimo;C;Picking convencional
+445243;286;;230;;;0;0,0;0;Sin ubicación;C;Picking convencional
+455570;287;269;230;15,4;;0;0,0;17199;Óptimo;C;Picking convencional
+522104-ACUARELA;288;;231;;;0;0,0;0;Sin ubicación;C;Picking convencional
+459400;289;165;232;12,29;;0;0,0;0;Óptimo;C;Picking convencional
+303666-BLANCO;290;100;233;9,72;;0;0,0;0;Óptimo;C;Picking convencional
+303659-BEIGE;291;;234;;;0;0,0;0;Sin ubicación;C;Picking convencional
+459394;292;225;235;14,14;;0;0,0;0;Óptimo;C;Picking convencional
+303666-AZUL;293;410;236;19,06;;0;0,0;60900;Óptimo;C;Picking convencional
+301549;294;12;237;3,87;;0;0,0;0;Óptimo;C;Picking convencional
+455587-VERA;295;172;238;12,44;;0;0,0;0;Óptimo;C;Picking convencional
+455587-MULTIRAYAS;296;;239;;;0;0,0;0;Sin ubicación;C;Picking convencional
+455587-SELLOS;297;725;240;26,59;;0;0,0;145985;Aceptable;C;Picking convencional
+459417;298;;241;;;0;0,0;0;Sin ubicación;C;Picking convencional
+455587-MAGNOLIAS;299;;241;;;0;0,0;0;Sin ubicación;C;Picking convencional
+461106;300;169;242;12,41;;0;0,0;0;Óptimo;C;Picking convencional
+522104-VERTICAL;301;;243;;;0;0,0;0;Sin ubicación;C;Picking convencional
+522104-CINNAMON;302;115;244;10,28;;0;0,0;0;Óptimo;C;Picking convencional
+522104-TARI;303;66;245;8,3;;0;0,0;0;Óptimo;C;Picking convencional
+522104-ISABELA;304;82;246;9,07;;0;0,0;0;Óptimo;C;Picking convencional
+455556;305;185;247;12,85;;0;0,0;0;Óptimo;C;Picking convencional
+303673-BLANCO;306;673;248;25,05;;0;0,0;115175;Aceptable;C;Picking convencional
+520308-TAI;307;267;249;15,35;;0;0,0;4698;Óptimo;C;Picking convencional
+303680-BEIGE;308;;250;;;0;0,0;0;Sin ubicación;C;Picking convencional
+460307;309;604;250;23,39;;0;0,0;86730;Aceptable;C;Picking convencional
+459424;310;378;251;18,29;;0;0,0;29337;Óptimo;C;Picking convencional
+520308-TROYA;311;409;252;19,01;;0;0,0;36110;Óptimo;C;Picking convencional
+455549;312;205;252;13,5;;0;0,0;0;Óptimo;C;Picking convencional
+498355;313;226;252;14,15;;0;0,0;0;Óptimo;C;Picking convencional
+455587-PALACE;314;176;253;12,56;;0;0,0;0;Óptimo;C;Picking convencional
+455600-VERA;315;122;254;10,64;;0;0,0;0;Óptimo;C;Picking convencional
+455563;316;264;255;15,28;;0;0,0;1269;Óptimo;C;Picking convencional
+450223;317;38;256;6,47;;0;0,0;0;Correcto;D;Reserva
+437033;318;;257;;;0;0,0;0;Sin ubicación;D;Reserva
+486178;319;79;258;8,95;;0;0,0;0;Correcto;D;Reserva
+444901;320;111;259;10,14;;0;0,0;0;Correcto;D;Reserva
+495149;321;764;260;27,61;;0;0,0;1705536;Correcto;D;Reserva
+492001;322;778;261;28,06;;0;0,0;1677148;Correcto;D;Reserva
+468242;323;536;262;21,95;;0;0,0;886938;Correcto;D;Reserva
+495132;324;8;263;3,24;;0;0,0;0;Correcto;D;Reserva
+400280;325;341;264;17,33;;0;0,0;208670;Correcto;D;Reserva
+489889;326;157;265;12,06;;0;0,0;0;Correcto;D;Reserva
+468211;327;161;266;12,2;;0;0,0;0;Correcto;D;Reserva
+489902;328;;267;;;0;0,0;0;Sin ubicación;D;Reserva
+468228;329;220;268;13,91;;0;0,0;0;Correcto;D;Reserva
+390567;330;;268;;;0;0,0;0;Sin ubicación;D;Reserva
+390550;331;211;269;13,68;;0;0,0;0;Correcto;D;Reserva
+489896;332;333;270;17,18;;0;0,0;132741;Correcto;D;Reserva
+390642;333;69;270;8,46;;0;0,0;0;Correcto;D;Reserva
+390581;334;334;271;17,19;;0;0,0;129087;Correcto;D;Reserva
+486413;335;335;272;17,22;;0;0,0;128268;Correcto;D;Reserva
+468259;336;559;273;22,42;;0;0,0;562562;Correcto;D;Reserva
+468266;337;768;274;27,73;;0;0,0;899574;Correcto;D;Reserva
+468235;338;125;275;10,75;;0;0,0;0;Correcto;D;Reserva
+390482;339;;276;;;0;0,0;0;Sin ubicación;D;Reserva
+450247;340;597;277;23,2;;0;0,0;547200;Correcto;D;Reserva
+390635;341;;278;;;0;0,0;0;Sin ubicación;D;Reserva
+390475;342;116;279;10,32;;0;0,0;0;Correcto;D;Reserva
+468273;343;119;279;10,45;;0;0,0;0;Correcto;D;Reserva
+476155;344;571;280;22,67;;0;0,0;428934;Correcto;D;Reserva
+486512;345;576;281;22,76;;0;0,0;427750;Correcto;D;Reserva
+432342;346;443;282;19,84;;0;0,0;231196;Correcto;D;Reserva
+390505;347;118;283;10,44;;0;0,0;0;Correcto;D;Reserva
+486505;348;832;284;29,51;;0;0,0;758980;Correcto;D;Reserva
+410197;349;504;285;21,29;;0;0,0;273312;Correcto;D;Reserva
+495125;350;833;285;29,52;;0;0,0;619788;Correcto;D;Reserva
+486369;351;498;286;21,19;;0;0,0;236804;Correcto;D;Reserva
+281612-000;352;21;286;4,89;;0;0,0;0;Correcto;D;Reserva
+486345;353;;287;;;0;0,0;0;Sin ubicación;D;Reserva
+486352;354;779;288;28,09;;0;0,0;523897;Correcto;D;Reserva
+486635;355;749;289;27,2;;0;0,0;482080;Correcto;D;Reserva
+486550;356;542;290;22,05;;0;0,0;258552;Correcto;D;Reserva
+390499;357;742;291;27,05;;0;0,0;461373;Correcto;D;Reserva
+486659;358;255;291;15,05;;0;0,0;0;Correcto;D;Reserva
+495217;359;800;292;28,55;;0;0,0;497332;Correcto;D;Reserva
+495194;360;294;292;16,1;;0;0,0;1952;Correcto;D;Reserva
+449081;361;1;293;0,0;;0;0,0;0;Correcto;D;Reserva
+495477;362;65;294;8,17;;0;0,0;0;Correcto;D;Reserva
+486642;363;633;294;24,01;;0;0,0;305100;Correcto;D;Reserva
+495484;364;32;295;6,0;;0;0,0;0;Correcto;D;Reserva
+390512;365;209;296;13,63;;0;0,0;0;Correcto;D;Reserva
+486376;366;521;296;21,7;;0;0,0;197325;Correcto;D;Reserva
+390659;367;46;297;6,96;;0;0,0;0;Correcto;D;Reserva
+495156;368;;297;;;0;0,0;0;Sin ubicación;D;Reserva
+404677;369;309;298;16,43;;0;0,0;9350;Correcto;D;Reserva
+495118;370;144;299;11,55;;0;0,0;0;Correcto;D;Reserva
+499635;371;;300;;;0;0,0;0;Sin ubicación;D;Reserva
+495187;372;;301;;;0;0,0;0;Sin ubicación;D;Reserva
+499628;373;648;302;24,41;;0;0,0;275070;Correcto;D;Reserva
+491356;374;;303;;;0;0,0;0;Sin ubicación;D;Reserva
+495200;375;44;304;6,8;;0;0,0;0;Correcto;D;Reserva
+496092;376;635;305;24,09;;0;0,0;250140;Correcto;D;Reserva
+495569;377;105;306;9,87;;0;0,0;0;Correcto;D;Reserva
+491387;378;469;307;20,43;;0;0,0;122310;Correcto;D;Reserva
+495224;379;;308;;;0;0,0;0;Sin ubicación;D;Reserva
+491349;380;314;309;16,53;;0;0,0;3715;Correcto;D;Reserva
+495583;381;25;310;5,41;;0;0,0;0;Correcto;D;Reserva
+496115;382;354;310;17,76;;0;0,0;32384;Correcto;D;Reserva
+486338;383;;311;;;0;0,0;0;Sin ubicación;D;Reserva
+495248;384;142;312;11,46;;0;0,0;0;Correcto;D;Reserva
+495231;385;;313;;;0;0,0;0;Sin ubicación;D;Reserva
+491370;386;198;314;13,3;;0;0,0;0;Correcto;D;Reserva
+495460;387;;315;;;0;0,0;0;Sin ubicación;D;Reserva
+486192;388;;316;;;0;0,0;0;Sin ubicación;D;Reserva
+495620;389;722;317;26,48;;0;0,0;285525;Correcto;D;Reserva
+496108;390;107;318;9,93;;0;0,0;0;Correcto;D;Reserva
+495446;391;179;319;12,64;;0;0,0;0;Correcto;D;Reserva
+495576;392;451;320;19,98;;0;0,0;88425;Correcto;D;Reserva
+495590;393;136;320;11,18;;0;0,0;0;Correcto;D;Reserva
+495453;394;;321;;;0;0,0;0;Sin ubicación;D;Reserva
+486628;395;40;321;6,53;;0;0,0;0;Correcto;D;Reserva
+456997;396;387;322;18,54;;0;0,0;42510;Correcto;D;Reserva
+495439;397;451;322;19,98;;0;0,0;83979;Correcto;D;Reserva
+410203;398;61;323;7,91;;0;0,0;0;Correcto;D;Reserva
+486185;399;836;323;29,62;;0;0,0;327294;Correcto;D;Reserva
+334035;400;146;324;11,7;;0;0,0;0;Correcto;D;Reserva
+491332;401;231;325;14,36;;0;0,0;0;Correcto;D;Reserva
+495170;402;706;326;25,99;;0;0,0;227240;Correcto;D;Reserva
+491363;403;566;327;22,61;;0;0,0;138142;Correcto;D;Reserva
+410210;404;321;327;16,77;;0;0,0;0;Correcto;D;Reserva
+476148;405;120;327;10,48;;0;0,0;0;Correcto;D;Reserva
+491202;406;174;328;12,51;;0;0,0;0;Correcto;D;Reserva
+495552;407;152;329;11,87;;0;0,0;0;Correcto;D;Reserva
+495699;408;322;330;16,81;;0;0,0;0;Correcto;D;Reserva
+486581;409;488;331;20,96;;0;0,0;81483;Correcto;D;Reserva
+495538;410;761;332;27,54;;0;0,0;222651;Correcto;D;Reserva
+495682;411;;333;;;0;0,0;0;Sin ubicación;D;Reserva
+495606;412;;334;;;0;0,0;0;Sin ubicación;D;Reserva
+491196;413;366;334;18,06;;0;0,0;15872;Correcto;D;Reserva
+385945;414;855;335;30,38;;0;0,0;256880;Correcto;D;Reserva
+495279;415;393;335;18,65;;0;0,0;28304;Correcto;D;Reserva
+495736;416;33;336;6,1;;0;0,0;0;Correcto;D;Reserva
+495712;417;736;337;26,86;;0;0,0;191520;Correcto;D;Reserva
+495545;418;;338;;;0;0,0;0;Sin ubicación;D;Reserva
+495651;419;285;339;15,82;;0;0,0;0;Correcto;D;Reserva
+495705;420;55;340;7,58;;0;0,0;0;Correcto;D;Reserva
+491189;421;;341;;;0;0,0;0;Sin ubicación;D;Reserva
+495743;422;527;342;21,79;;0;0,0;81585;Correcto;D;Reserva
+495163;423;;342;;;0;0,0;0;Sin ubicación;D;Reserva
+486567;424;327;342;16,96;;0;0,0;0;Correcto;D;Reserva
+495750;425;447;343;19,92;;0;0,0;43992;Correcto;D;Reserva
+495668;426;645;344;24,36;;0;0,0;123711;Correcto;D;Reserva
+495675;427;;345;;;0;0,0;0;Sin ubicación;D;Reserva
+491424;428;298;346;16,19;;0;0,0;0;Correcto;D;Reserva
+450100;429;732;347;26,74;;0;0,0;148610;Correcto;D;Reserva
+410227;430;557;348;22,38;;0;0,0;79002;Correcto;D;Reserva
+495255;431;404;349;18,91;;0;0,0;20625;Correcto;D;Reserva
+488738;432;386;349;18,48;;0;0,0;13764;Correcto;D;Reserva
+495262;433;228;350;14,2;;0;0,0;0;Correcto;D;Reserva
+486536;434;496;351;21,14;;0;0,0;53215;Correcto;D;Reserva
+385921;435;;352;;;0;0,0;0;Sin ubicación;D;Reserva
+499598;436;132;353;10,98;;0;0,0;0;Correcto;D;Reserva
+459301;437;112;354;10,17;;0;0,0;0;Correcto;D;Reserva
+486383;438;300;355;16,21;;0;0,0;0;Correcto;D;Reserva
+469492;439;618;356;23,7;;0;0,0;84102;Correcto;D;Reserva
+495637;440;214;357;13,75;;0;0,0;0;Correcto;D;Reserva
+459387;441;129;358;10,87;;0;0,0;0;Correcto;D;Reserva
+495644;442;748;359;27,19;;0;0,0;116700;Correcto;D;Reserva
+495729;443;602;360;23,35;;0;0,0;70422;Correcto;D;Reserva
+303666-ROSE;444;186;361;12,87;;0;0,0;0;Correcto;D;Reserva
+522104-TAI;445;223;362;14,06;;0;0,0;0;Correcto;D;Reserva
+374291;446;;363;;;0;0,0;0;Sin ubicación;D;Reserva
+498010;447;;364;;;0;0,0;0;Sin ubicación;D;Reserva
+303666-VERDE;448;787;364;28,26;;0;0,0;104058;Correcto;D;Reserva
+483160;449;486;365;20,91;;0;0,0;28677;Correcto;D;Reserva
+491448;450;;366;;;0;0,0;0;Sin ubicación;D;Reserva
+303673-BEIGE;451;382;367;18,37;;0;0,0;3435;Correcto;D;Reserva
+498003;452;128;368;10,86;;0;0,0;0;Correcto;D;Reserva
+497990;453;164;368;12,27;;0;0,0;0;Correcto;D;Reserva
+303659-BLANCO;454;234;368;14,5;;0;0,0;0;Correcto;D;Reserva
+444956;455;335;369;17,22;;0;0,0;0;Correcto;D;Reserva
+522104-DENIS;456;139;370;11,37;;0;0,0;0;Correcto;D;Reserva
+495613;457;;371;;;0;0,0;0;Sin ubicación;D;Reserva
+491400;458;;372;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-#17;459;;373;;;0;0,0;0;Sin ubicación;D;Reserva
+499833;460;495;374;21,13;;0;0,0;21175;Correcto;D;Reserva
+491417;461;58;375;7,73;;0;0,0;0;Correcto;D;Reserva
+303680-BLANCO;462;152;376;11,87;;0;0,0;0;Correcto;D;Reserva
+520308-#23;463;803;376;28,64;;0;0,0;70455;Correcto;D;Reserva
+520308-#25;464;372;377;18,17;;0;0,0;0;Correcto;D;Reserva
+455587-PAISLEY;465;605;378;23,4;;0;0,0;36320;Correcto;D;Reserva
+303666-TURQ;466;;379;;;0;0,0;0;Sin ubicación;D;Reserva
+445014;467;79;379;8,95;;0;0,0;0;Correcto;D;Reserva
+455532;468;138;379;11,28;;0;0,0;0;Correcto;D;Reserva
+445021;469;313;380;16,5;;0;0,0;0;Correcto;D;Reserva
+522104-AXEL;470;331;380;17,15;;0;0,0;0;Correcto;D;Reserva
+303673-AZUL;471;475;381;20,64;;0;0,0;13724;Correcto;D;Reserva
+524108-CINNAMON;472;442;382;19,82;;0;0,0;8760;Correcto;D;Reserva
+524108-TARI;473;632;383;23,99;;0;0,0;36354;Correcto;D;Reserva
+444987;474;449;384;19,94;;0;0,0;9490;Correcto;D;Reserva
+522104-LUC;475;377;385;18,27;;0;0,0;0;Correcto;D;Reserva
+520308-ROUGE;476;;386;;;0;0,0;0;Sin ubicación;D;Reserva
+444970;477;;387;;;0;0,0;0;Sin ubicación;D;Reserva
+445175;478;;387;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-TROYA;479;153;387;11,97;;0;0,0;0;Correcto;D;Reserva
+522104-FENIX;480;120;388;10,48;;0;0,0;0;Correcto;D;Reserva
+455587-JILL;481;268;389;15,37;;0;0,0;0;Correcto;D;Reserva
+520308-#20;482;858;390;30,45;;0;0,0;61308;Correcto;D;Reserva
+522104-ELIXIR;483;;390;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-ACUARELA;484;;391;;;0;0,0;0;Sin ubicación;D;Reserva
+497983;485;183;392;12,76;;0;0,0;0;Correcto;D;Reserva
+522104-IPANEMA;486;49;393;7,19;;0;0,0;0;Correcto;D;Reserva
+455587-TINA;487;928;393;35,18;;0;0,0;59920;Correcto;D;Reserva
+445151;488;191;393;13,0;;0;0,0;0;Correcto;D;Reserva
+491394;489;252;393;15,0;;0;0,0;0;Correcto;D;Reserva
+455600-PALACE;490;515;394;21,53;;0;0,0;13310;Correcto;D;Reserva
+455594-PALACE;491;279;395;15,66;;0;0,0;0;Correcto;D;Reserva
+455570-PAISLEY;492;;395;;;0;0,0;0;Sin ubicación;D;Reserva
+499659;493;36;396;6,28;;0;0,0;0;Correcto;D;Reserva
+524108-FOLLAJE;494;342;397;17,34;;0;0,0;0;Correcto;D;Reserva
+524108-ISABELA;495;903;398;32,69;;0;0,0;51510;Correcto;D;Reserva
+499666;496;465;399;20,35;;0;0,0;6732;Correcto;D;Reserva
+455587-CHENET;497;127;400;10,82;;0;0,0;0;Correcto;D;Reserva
+455587-FRIDA;498;649;401;24,45;;0;0,0;25048;Correcto;D;Reserva
+303680-ROSE;499;176;402;12,56;;0;0,0;0;Correcto;D;Reserva
+303680-VERDE;500;664;403;24,86;;0;0,0;25317;Correcto;D;Reserva
+445045;501;326;403;16,95;;0;0,0;0;Correcto;D;Reserva
+524108-LORENA;502;878;404;31,31;;0;0,0;45978;Correcto;D;Reserva
+455587-ZIGZAG;503;;405;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-VERA;504;440;406;19,78;;0;0,0;3230;Correcto;D;Reserva
+524108-ACUARELA;505;;407;;;0;0,0;0;Sin ubicación;D;Reserva
+303659-ROSE;506;711;408;26,1;;0;0,0;28482;Correcto;D;Reserva
+499642;507;150;409;11,78;;0;0,0;0;Correcto;D;Reserva
+489759;508;289;409;15,89;;0;0,0;0;Correcto;D;Reserva
+303673-VERDE;509;413;410;19,13;;0;0,0;270;Correcto;D;Reserva
+524108-VERTICAL;510;149;411;11,77;;0;0,0;0;Correcto;D;Reserva
+521107-ACUARELA;511;182;412;12,69;;0;0,0;0;Correcto;D;Reserva
+445090;512;26;413;5,54;;0;0,0;0;Correcto;D;Reserva
+524108-TAI;513;106;413;9,91;;0;0,0;0;Correcto;D;Reserva
+455570-VERA;514;207;414;13,6;;0;0,0;0;Correcto;D;Reserva
+520308-TARI;515;427;415;19,49;;0;0,0;1020;Correcto;D;Reserva
+303680-AZUL;516;631;416;23,97;;0;0,0;18275;Correcto;D;Reserva
+522104-ZAFIRO;517;641;417;24,18;;0;0,0;18816;Correcto;D;Reserva
+489742;518;368;418;18,1;;0;0,0;0;Correcto;D;Reserva
+303673-ROSE;519;96;418;9,6;;0;0,0;0;Correcto;D;Reserva
+303680-TUQZA;520;;419;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-APOLO;521;;420;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-VARSITY;522;;420;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-DIXIE;523;507;421;21,34;;0;0,0;7052;Correcto;D;Reserva
+521107-BERLIN;524;89;422;9,32;;0;0,0;0;Correcto;D;Reserva
+520308-DENIS;525;;423;;;0;0,0;0;Sin ubicación;D;Reserva
+303666-TUQZA;526;430;424;19,53;;0;0,0;468;Correcto;D;Reserva
+455570-MAGNOLIAS;527;418;425;19,26;;0;0,0;0;Correcto;D;Reserva
+303659-AZUL;528;364;426;18,0;;0;0,0;0;Correcto;D;Reserva
+521107-LUC;529;;427;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-SUGAR;530;98;427;9,67;;0;0,0;0;Correcto;D;Reserva
+455570-MULTIRAYAS;531;;427;;;0;0,0;0;Sin ubicación;D;Reserva
+303673-TURQ;532;;428;;;0;0,0;0;Sin ubicación;D;Reserva
+445236;533;48;428;7,14;;0;0,0;0;Correcto;D;Reserva
+520308-FENIX;534;128;429;10,86;;0;0,0;0;Correcto;D;Reserva
+489773;535;5;430;2,44;;0;0,0;0;Correcto;D;Reserva
+455594-AURA;536;;430;;;0;0,0;0;Sin ubicación;D;Reserva
+521107-FENIX;537;395;431;18,71;;0;0,0;0;Correcto;D;Reserva
+455600-JILL;538;;431;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-PAISLEY;539;;432;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-ELIXIR;540;905;433;32,87;;0;0,0;27376;Correcto;D;Reserva
+455570-TINA;541;43;434;6,71;;0;0,0;0;Correcto;D;Reserva
+520308-CINNAMON;542;692;435;25,62;;0;0,0;14649;Correcto;D;Reserva
+455587-HELEN;543;892;436;32,16;;0;0,0;25536;Correcto;D;Reserva
+521107-LILY;544;140;437;11,38;;0;0,0;0;Correcto;D;Reserva
+445113;545;345;438;17,45;;0;0,0;0;Correcto;D;Reserva
+303666-YELLOW;546;;439;;;0;0,0;0;Sin ubicación;D;Reserva
+455549-WHITE;547;68;439;8,44;;0;0,0;0;Correcto;D;Reserva
+521107-APOLO;548;502;440;21,26;;0;0,0;3348;Correcto;D;Reserva
+445076;549;54;440;7,5;;0;0,0;0;Correcto;D;Reserva
+303659-TUQZA;550;3;441;1,5;;0;0,0;0;Correcto;D;Reserva
+455600-AURA;551;61;442;7,91;;0;0,0;0;Correcto;D;Reserva
+455587-AURA;552;632;443;23,99;;0;0,0;9639;Correcto;D;Reserva
+455570-CHENET;553;;444;;;0;0,0;0;Sin ubicación;D;Reserva
+521107-DIXIE;554;175;445;12,55;;0;0,0;0;Correcto;D;Reserva
+524108-FENIX;555;;446;;;0;0,0;0;Sin ubicación;D;Reserva
+455556-WHITE;556;425;447;19,43;;0;0,0;0;Correcto;D;Reserva
+520308-LORENA;557;230;448;14,32;;0;0,0;0;Correcto;D;Reserva
+455594-RODIN;558;;449;;;0;0,0;0;Sin ubicación;D;Reserva
+522104-CARACOL;559;221;450;13,92;;0;0,0;0;Correcto;D;Reserva
+445274;560;658;451;24,7;;0;0,0;9522;Correcto;D;Reserva
+530109;561;276;451;15,53;;0;0,0;0;Correcto;D;Reserva
+455594-FRIDA;562;229;452;14,28;;0;0,0;0;Correcto;D;Reserva
+455594-TORY;563;565;453;22,6;;0;0,0;4928;Correcto;D;Reserva
+445168;564;199;454;13,33;;0;0,0;0;Correcto;D;Reserva
+445199;565;699;455;25,73;;0;0,0;10736;Correcto;D;Reserva
+455594-JILL;566;629;456;23,94;;0;0,0;7439;Correcto;D;Reserva
+455587-CAROLINA;567;615;457;23,66;;0;0,0;6794;Correcto;D;Reserva
+520308-RYAN;568;;458;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-CHENET;569;274;459;15,49;;0;0,0;0;Correcto;D;Reserva
+455570-BAROQUE;570;7;460;3,0;;0;0,0;0;Correcto;D;Reserva
+448350;571;;461;;;0;0,0;0;Sin ubicación;D;Reserva
+455600-PAISLEY;572;;462;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-MULTIRAYAS;573;682;463;25,22;;0;0,0;8760;Correcto;D;Reserva
+455587-GRACE;574;132;464;10,98;;0;0,0;0;Correcto;D;Reserva
+455570-SELLOS;575;567;465;22,62;;0;0,0;4080;Correcto;D;Reserva
+520308-ISABELA;576;57;466;7,64;;0;0,0;0;Correcto;D;Reserva
+303659-VERDE;577;58;467;7,73;;0;0,0;0;Correcto;D;Reserva
+521107-ZAFIRO;578;320;467;16,76;;0;0,0;0;Correcto;D;Reserva
+524108-COZY;579;479;468;20,74;;0;0,0;429;Correcto;D;Reserva
+455570-ZIGZAG;580;450;468;19,95;;0;0,0;0;Correcto;D;Reserva
+303673-YELLOW;581;782;469;28,15;;0;0,0;11894;Correcto;D;Reserva
+522104-SPORT;582;113;469;10,21;;0;0,0;0;Correcto;D;Reserva
+520308-DIXIE;583;;470;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-ELIXIR;584;348;471;17,52;;0;0,0;0;Correcto;D;Reserva
+521107-IPANEMA;585;60;471;7,89;;0;0,0;0;Correcto;D;Reserva
+445182;586;617;472;23,69;;0;0,0;5220;Correcto;D;Reserva
+445038;587;42;473;6,65;;0;0,0;0;Correcto;D;Reserva
+455556-BLUE;588;243;474;14,73;;0;0,0;0;Correcto;D;Reserva
+455594-ELEVEN;589;638;475;24,13;;0;0,0;5705;Correcto;D;Reserva
+445069;590;;475;;;0;0,0;0;Sin ubicación;D;Reserva
+455570-PAOLA;591;463;476;20,26;;0;0,0;0;Correcto;D;Reserva
+520308-KENNAN;592;110;477;10,12;;0;0,0;0;Correcto;D;Reserva
+524108-ZAFIRO;593;537;478;21,96;;0;0,0;2006;Correcto;D;Reserva
+520308-VERTICAL;594;;479;;;0;0,0;0;Sin ubicación;D;Reserva
+301532-BAR;595;258;479;15,16;;0;0,0;0;Correcto;D;Reserva
+455594-ZIGZAG;596;;480;;;0;0,0;0;Sin ubicación;D;Reserva
+455532-WHITE;597;489;481;21,0;;0;0,0;256;Correcto;D;Reserva
+502809;598;281;482;15,73;;0;0,0;0;Correcto;D;Reserva
+455570-FRIDA;599;160;483;12,15;;0;0,0;0;Correcto;D;Reserva
+301532-BLOSSOM;600;23;484;5,11;;0;0,0;0;Correcto;D;Reserva
+455549-BLUE;601;28;485;5,73;;0;0,0;0;Correcto;D;Reserva
+524108-IPANEMA;602;;486;;;0;0,0;0;Sin ubicación;D;Reserva
+445007;603;;486;;;0;0,0;0;Sin ubicación;D;Reserva
+455600-ELEVEN;604;570;487;22,66;;0;0,0;2407;Correcto;D;Reserva
+455556-GREEN;605;260;488;15,23;;0;0,0;0;Correcto;D;Reserva
+455587-MALIBU;606;47;488;7,03;;0;0,0;0;Correcto;D;Reserva
+521107-LAVANDER;607;51;488;7,32;;0;0,0;0;Correcto;D;Reserva
+455600-MALIBU;608;467;488;20,39;;0;0,0;0;Correcto;D;Reserva
+455587-PATCHWORK;609;13;489;3,96;;0;0,0;0;Correcto;D;Reserva
+455549-GREEN;610;;489;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-ZAFIRO;611;270;490;15,41;;0;0,0;0;Correcto;D;Reserva
+522104-OCEANO;612;93;490;9,54;;0;0,0;0;Correcto;D;Reserva
+522104-CASTILLO;613;;491;;;0;0,0;0;Sin ubicación;D;Reserva
+444963;614;;492;;;0;0,0;0;Sin ubicación;D;Reserva
+455600-TINA;615;9;493;3,35;;0;0,0;0;Correcto;D;Reserva
+455600-MULTIRAYAS;616;577;494;22,77;;0;0,0;2241;Correcto;D;Reserva
+303659-NATURAL;617;186;494;12,87;;0;0,0;0;Correcto;D;Reserva
+444994;618;667;495;24,91;;0;0,0;4644;Correcto;D;Reserva
+455563-WHITE;619;379;496;18,3;;0;0,0;0;Correcto;D;Reserva
+522104-LAVANDER;620;781;496;28,11;;0;0,0;7410;Correcto;D;Reserva
+455594-DORMA AZUL;621;30;497;5,92;;0;0,0;0;Correcto;D;Reserva
+455587-DORMA AZUL;622;;497;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-SELLOS;623;;498;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-DEEP;624;;499;;;0;0,0;0;Sin ubicación;D;Reserva
+522104-LAOS;625;433;500;19,58;;0;0,0;0;Correcto;D;Reserva
+455587-ELEVEN;626;;501;;;0;0,0;0;Sin ubicación;D;Reserva
+521107-CARACOL;627;297;502;16,16;;0;0,0;0;Correcto;D;Reserva
+448374;628;80;502;9,0;;0;0,0;0;Correcto;D;Reserva
+524108-CARACOL;629;403;503;18,89;;0;0,0;0;Correcto;D;Reserva
+301556-MARCE;630;;504;;;0;0,0;0;Sin ubicación;D;Reserva
+455532-GREEN;631;242;505;14,72;;0;0,0;0;Correcto;D;Reserva
+390574;632;494;506;21,09;;0;0,0;0;Correcto;D;Reserva
+455556-PINK;633;826;507;29,37;;0;0,0;6380;Correcto;D;Reserva
+303673-NATURAL;634;299;508;16,2;;0;0,0;0;Correcto;D;Reserva
+524108-LAVANDER;635;6;508;2,86;;0;0,0;0;Correcto;D;Reserva
+455600-DORMA AZUL;636;343;509;17,37;;0;0,0;0;Correcto;D;Reserva
+455532-BLUE;637;;510;;;0;0,0;0;Sin ubicación;D;Reserva
+521107-AXEL;638;197;511;13,28;;0;0,0;0;Correcto;D;Reserva
+522104-EPIC;639;;512;;;0;0,0;0;Sin ubicación;D;Reserva
+445120;640;107;512;9,93;;0;0,0;0;Correcto;D;Reserva
+455600-ZIGZAG;641;370;513;18,15;;0;0,0;0;Correcto;D;Reserva
+455600-SELLOS;642;741;514;27,01;;0;0,0;4086;Correcto;D;Reserva
+301556-MONET;643;563;515;22,5;;0;0,0;864;Correcto;D;Reserva
+455594-TINA;644;124;516;10,71;;0;0,0;0;Correcto;D;Reserva
+301549-BERLIN;645;921;517;34,17;;0;0,0;6868;Correcto;D;Reserva
+524108-DENIS;646;514;517;21,51;;0;0,0;0;Correcto;D;Reserva
+524108-FENIX RED;647;;518;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-CORAL;648;;518;;;0;0,0;0;Sin ubicación;D;Reserva
+455600-RODIN;649;346;519;17,47;;0;0,0;0;Correcto;D;Reserva
+524108-LION GREY;650;;519;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-WIND;651;517;520;21,56;;0;0,0;0;Correcto;D;Reserva
+524108-AXEL;652;178;521;12,61;;0;0,0;0;Correcto;D;Reserva
+455563-GREEN;653;72;522;8,56;;0;0,0;0;Correcto;D;Reserva
+455532-PINK;654;517;523;21,56;;0;0,0;0;Correcto;D;Reserva
+303673-BLUE;655;216;524;13,79;;0;0,0;0;Correcto;D;Reserva
+521107-CASTILLO;656;811;525;28,75;;0;0,0;3432;Correcto;D;Reserva
+524108-OCEANO;657;879;526;31,33;;0;0,0;4236;Correcto;D;Reserva
+455563-BLUE;658;;527;;;0;0,0;0;Sin ubicación;D;Reserva
+459417-BAROQUE;659;896;528;32,32;;0;0,0;4048;Correcto;D;Reserva
+455549-PINK;660;;528;;;0;0,0;0;Sin ubicación;D;Reserva
+455570-LACE;661;295;528;16,11;;0;0,0;0;Correcto;D;Reserva
+520308-CASTILLO;662;650;528;24,47;;0;0,0;1342;Correcto;D;Reserva
+445106;663;173;529;12,5;;0;0,0;0;Correcto;D;Reserva
+445144;664;254;530;15,03;;0;0,0;0;Correcto;D;Reserva
+455600-FRIDA;665;133;531;11,08;;0;0,0;0;Correcto;D;Reserva
+459417-MULTIRAYAS;666;92;532;9,49;;0;0,0;0;Correcto;D;Reserva
+520308;667;2;532;1,22;;0;0,0;0;Correcto;D;Reserva
+301532-BOSTON;668;537;533;21,96;;0;0,0;40;Correcto;D;Reserva
+522104-FENIX RED;669;417;533;19,24;;0;0,0;0;Correcto;D;Reserva
+524108-KLEIN;670;712;534;26,12;;0;0,0;1780;Correcto;D;Reserva
+459424-TORY;671;475;534;20,64;;0;0,0;0;Correcto;D;Reserva
+455600-SUGAR;672;853;535;30,34;;0;0,0;2862;Correcto;D;Reserva
+301563-PEEK;673;621;536;23,74;;0;0,0;765;Correcto;D;Reserva
+301556-GRETA;674;310;537;16,45;;0;0,0;0;Correcto;D;Reserva
+301556-DENIS;675;469;537;20,43;;0;0,0;0;Correcto;D;Reserva
+455570-RODIN;676;751;538;27,22;;0;0,0;1917;Correcto;D;Reserva
+522104-POLO;677;198;539;13,3;;0;0,0;0;Correcto;D;Reserva
+522104-SECRET;678;261;540;15,24;;0;0,0;0;Correcto;D;Reserva
+445137;679;86;541;9,18;;0;0,0;0;Correcto;D;Reserva
+524108-CASTILLO;680;253;542;15,02;;0;0,0;0;Correcto;D;Reserva
+524108-ALINA;681;;542;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-EPIC;682;;543;;;0;0,0;0;Sin ubicación;D;Reserva
+301532-MARCE;683;24;544;5,12;;0;0,0;0;Correcto;D;Reserva
+301532-DENIS;684;117;545;10,35;;0;0,0;0;Correcto;D;Reserva
+459424-JILL;685;;546;;;0;0,0;0;Sin ubicación;D;Reserva
+301563-DENIS;686;87;546;9,21;;0;0,0;0;Correcto;D;Reserva
+301563-TROPICO;687;151;547;11,84;;0;0,0;0;Correcto;D;Reserva
+301556-LILY;688;186;548;12,87;;0;0,0;0;Correcto;D;Reserva
+455570-PATCHWORK;689;39;548;6,48;;0;0,0;0;Correcto;D;Reserva
+520308-IPANEMA;690;455;549;20,1;;0;0,0;0;Correcto;D;Reserva
+520308-EPIC;691;777;550;28,03;;0;0,0;1589;Correcto;D;Reserva
+521107-FENIX RED;692;364;550;18,0;;0;0,0;0;Correcto;D;Reserva
+459417-MAGNOLIAS;693;;551;;;0;0,0;0;Sin ubicación;D;Reserva
+459400-BAROQUE;694;108;551;10,06;;0;0,0;0;Correcto;D;Reserva
+301563-LILY;695;62;552;8,05;;0;0,0;0;Correcto;D;Reserva
+301563-MARCE;696;538;553;21,98;;0;0,0;0;Correcto;D;Reserva
+301556-BOSTON;697;241;554;14,7;;0;0,0;0;Correcto;D;Reserva
+459394-JILL;698;911;554;33,34;;0;0,0;2142;Correcto;D;Reserva
+301549-ALINA;699;72;555;8,56;;0;0,0;0;Correcto;D;Reserva
+520308-MONET;700;;556;;;0;0,0;0;Sin ubicación;D;Reserva
+522104-FASES;701;19;557;4,73;;0;0,0;0;Correcto;D;Reserva
+303666-GREEN;702;;557;;;0;0,0;0;Sin ubicación;D;Reserva
+459417-PATCHWORK;703;464;558;20,34;;0;0,0;0;Correcto;D;Reserva
+301549-OCEANO;704;362;559;17,96;;0;0,0;0;Correcto;D;Reserva
+301549-PATY;705;656;560;24,66;;0;0,0;480;Correcto;D;Reserva
+455570-TORY;706;492;561;21,05;;0;0,0;0;Correcto;D;Reserva
+455570-JILL;707;;562;;;0;0,0;0;Sin ubicación;D;Reserva
+301532-PEEK;708;213;563;13,71;;0;0,0;0;Correcto;D;Reserva
+301532-LILY;709;;564;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-PATY;710;752;565;27,23;;0;0,0;935;Correcto;D;Reserva
+455600-PAOLA;711;;566;;;0;0,0;0;Sin ubicación;D;Reserva
+459400-JILL;712;461;567;20,22;;0;0,0;0;Correcto;D;Reserva
+459400-LONDON;713;;568;;;0;0,0;0;Sin ubicación;D;Reserva
+301556-PEEK;714;252;569;15,0;;0;0,0;0;Correcto;D;Reserva
+301549-PEGGY;715;;570;;;0;0,0;0;Sin ubicación;D;Reserva
+455570-RINA;716;210;571;13,64;;0;0,0;0;Correcto;D;Reserva
+455570-PALACE;717;669;572;24,97;;0;0,0;388;Correcto;D;Reserva
+520308-CARACOL;718;28;573;5,73;;0;0,0;0;Correcto;D;Reserva
+521107;719;188;573;12,92;;0;0,0;0;Correcto;D;Reserva
+521107-TARI;720;;574;;;0;0,0;0;Sin ubicación;D;Reserva
+522104-CAROLINA;721;;575;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-NATALY;722;48;576;7,14;;0;0,0;0;Correcto;D;Reserva
+459424-ELEVEN;723;420;576;19,32;;0;0,0;0;Correcto;D;Reserva
+459417-SELLOS;724;227;577;14,19;;0;0,0;0;Correcto;D;Reserva
+455587-SUGAR;725;;578;;;0;0,0;0;Sin ubicación;D;Reserva
+459394-MULTIRAYAS;726;603;579;23,37;;0;0,0;72;Correcto;D;Reserva
+459394-CHENET;727;689;579;25,53;;0;0,0;330;Correcto;D;Reserva
+455570-ELEVEN;728;457;580;20,13;;0;0,0;0;Correcto;D;Reserva
+521107-SPORT;729;668;581;24,92;;0;0,0;261;Correcto;D;Reserva
+524108-TRONO;730;308;582;16,42;;0;0,0;0;Correcto;D;Reserva
+459424-FRIDA;731;147;583;11,72;;0;0,0;0;Correcto;D;Reserva
+459424-MAGNOLIAS;732;661;584;24,8;;0;0,0;154;Correcto;D;Reserva
+455600-LONDON;733;327;585;16,96;;0;0,0;0;Correcto;D;Reserva
+459417-PAISLEY;734;262;586;15,25;;0;0,0;0;Correcto;D;Reserva
+459400-ZIGZAG;735;;586;;;0;0,0;0;Sin ubicación;D;Reserva
+455594-CAROLINA;736;78;586;8,87;;0;0,0;0;Correcto;D;Reserva
+455570-SKY;737;700;587;25,77;;0;0,0;226;Correcto;D;Reserva
+303680-NATURAL;738;245;588;14,76;;0;0,0;0;Correcto;D;Reserva
+520308-OCEANO;739;763;589;27,59;;0;0,0;348;Correcto;D;Reserva
+301532-#25;740;168;590;12,37;;0;0,0;0;Correcto;D;Reserva
+524108;741;82;591;9,07;;0;0,0;0;Correcto;D;Reserva
+455600-REEF;742;94;591;9,56;;0;0,0;0;Correcto;D;Reserva
+459417-TORY;743;474;592;20,62;;0;0,0;0;Correcto;D;Reserva
+459400-AURA;744;32;593;6,0;;0;0,0;0;Correcto;D;Reserva
+459400-PATCHWORK;745;57;594;7,64;;0;0,0;0;Correcto;D;Reserva
+459400-PAISLEY;746;192;595;13,04;;0;0,0;0;Correcto;D;Reserva
+459400-MAGNOLIAS;747;628;596;23,92;;0;0,0;32;Correcto;D;Reserva
+455587-LONDON;748;;597;;;0;0,0;0;Sin ubicación;D;Reserva
+301556-TROYA;749;509;598;21,37;;0;0,0;0;Correcto;D;Reserva
+459394-MAGNOLIAS;750;67;598;8,35;;0;0,0;0;Correcto;D;Reserva
+459394-PATCHWORK;751;202;598;13,42;;0;0,0;0;Correcto;D;Reserva
+459394-ZIGZAG;752;292;599;16,06;;0;0,0;0;Correcto;D;Reserva
+459394-BAROQUE;753;558;600;22,41;;0;0,0;0;Correcto;D;Reserva
+455570-CAMPIÑA;754;740;601;26,99;;0;0,0;139;Correcto;D;Reserva
+455570-REEF;755;;602;;;0;0,0;0;Sin ubicación;D;Reserva
+520308-ALINA;756;369;602;18,13;;0;0,0;0;Correcto;D;Reserva
+521107-OCEANO;757;675;603;25,09;;0;0,0;72;Correcto;D;Reserva
+522104-CLASSIC;758;389;603;18,56;;0;0,0;0;Correcto;D;Reserva
+524108-ANISA;759;7;604;3,0;;0;0,0;0;Correcto;D;Reserva
+524108-RICHIE;760;15;605;4,24;;0;0,0;0;Correcto;D;Reserva
+524108-SNOW;761;142;605;11,46;;0;0,0;0;Correcto;D;Reserva
+524108-TORISO;762;867;606;30,75;;0;0,0;261;Correcto;D;Reserva
+524108-KENNAN;763;;607;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-DEEP;764;;608;;;0;0,0;0;Sin ubicación;D;Reserva
+524108-CAMILA;765;318;609;16,69;;0;0,0;0;No evaluar;Revisar;No aplica
+301563;766;588;610;23,03;;0;0,0;0;No evaluar;Revisar;No aplica
+303680;767;268;611;15,37;;0;0,0;0;No evaluar;Revisar;No aplica
+303666;768;428;612;19,5;;0;0,0;0;No evaluar;Revisar;No aplica
+303659;769;799;613;28,51;;0;0,0;-13392;No evaluar;Revisar;No aplica
+303673;770;296;614;16,14;;0;0,0;0;No evaluar;Revisar;No aplica

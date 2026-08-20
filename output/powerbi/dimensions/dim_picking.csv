@@ -1,0 +1,3 @@
+﻿id_picking;tipo_picking;orden;prioridad;color;descripcion
+1;Picking dinámico;1;Alta;#16A34A;Productos de alta rotación ubicados cerca al despacho.
+2;Picking convencional;2;Media;#3B82F6;Productos de rotación normal.

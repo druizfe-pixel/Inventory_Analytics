@@ -1,0 +1,12 @@
+﻿tipo,tabla,registros,fecha_generacion,hora_generacion,usuario,version_algoritmo,total_dimensiones,total_facts,total_tablas,total_registros
+Dimension,dim_producto,770,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_familia,129,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_abcxyz,9,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_estado,7,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_zona,4,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_picking,2,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_ubicacion,538,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Dimension,dim_calendario,2557,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Fact,fact_layout,770,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Fact,fact_plan_reubicacion,66,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100
+Fact,fact_historico,9248,2026-08-06,09:29:59,druiz,1.0.0,8,3,11,14100

@@ -1,0 +1,8 @@
+﻿id_estado;estado_slotting;orden;prioridad;color;accion
+1;Mover urgente;1;Crítica;#DC2626;Reubicar inmediatamente
+2;Mover;2;Alta;#F59E0B;Programar reubicación
+3;Aceptable;3;Media;#EAB308;Evaluar mejora
+4;Correcto;4;Baja;#16A34A;Mantener
+5;Óptimo;5;Ninguna;#2563EB;Sin acción
+6;Sin ubicación;6;Pendiente;#6B7280;Asignar ubicación
+7;No evaluar;7;Excluir;#9CA3AF;Sin análisis
