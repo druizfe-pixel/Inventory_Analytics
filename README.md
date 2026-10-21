@@ -754,3 +754,44 @@ Intelligence + Warehouse Optimization**
 
 para transformar datos operacionales en **información accionable y
 decisiones de Supply Chain**.
+
+
+# EOQ Streamlit
+
+Aplicación de análisis y optimización de inventarios desarrollada con Python y Streamlit, basada en el proyecto EOQ.
+
+## Archivos principales
+
+- `Streamlit/app.py`: interfaz para cargar datos, consultar resultados y descargar los cálculos.
+- `Streamlit/eoq_engine.py`: motor de cálculo reutilizable para el análisis de inventarios.
+- `notebooks/EOQ_proyecto.ipynb`: notebook original del análisis.
+- `notebooks/EOQ_proyecto_estructurado.ipynb`: versión estructurada del notebook.
+
+## Ejecutar en Windows
+
+Desde la carpeta raíz del proyecto:
+
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+streamlit run Streamlit/app.py
+```
+
+## Datos de entrada
+
+El archivo CSV de inventarios debe incluir las columnas `Código`, `Descripción`, `Vr Unit`, `Costo Ordenar`, `Costo Almacenar` e `Inventario`, además de las columnas mensuales de demanda que utiliza el notebook. Se admiten los nombres de las columnas mensuales con o sin sufijo `.1`, según la estructura de los datos.
+
+El separador predeterminado del CSV es `;`.
+
+El archivo de ubicaciones es opcional y debe incluir `SKU`, `X`, `Y` y `Z`.
+
+## Fórmulas y parámetros
+
+- **ABC:** clasificación por valor de consumo acumulado: A hasta el 80 %, B hasta el 95 % y C para el restante.
+- **XYZ:** X para CV ≤ 0,50; Y para CV ≤ 1,00; Z para valores superiores.
+- **EOQ:** raíz cuadrada de (2 × demanda anual × costo de ordenar / costo de mantener).
+- **Stock de seguridad:** Z × desviación estándar de la demanda diaria × raíz cuadrada del lead time.
+- **Punto de reorden:** demanda diaria × lead time + stock de seguridad.
+
+Los parámetros iniciales documentados son 15 días de lead time, Z = 1,65 y 30 días por mes. Se pueden modificar desde la barra lateral de la aplicación, si esa funcionalidad está habilitada en la versión actual.
